@@ -11,7 +11,7 @@ paper=turtle.Screen()
 kai=turtle.Turtle()
 kai.shape("turtle")
 
-dist=3
+dist=2
 accelaration=0.05
 turn=20
 steps=90
