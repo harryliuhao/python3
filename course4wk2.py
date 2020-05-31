@@ -85,6 +85,7 @@ p1=Grass_Pokemon('Belle')
 p2=Grass_Pokemon('Bulby')
 p3=Grass_Pokemon('Pika')
 
+print(p3)
 
 for i in range(15):
     p3.train()
